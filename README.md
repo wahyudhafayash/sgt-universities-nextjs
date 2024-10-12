@@ -24,7 +24,7 @@ git https://github.com/wahyudhafayash/sgt-universities-nextjs
 2. **Masuk ke direktori proyek**:
 
 ```bash
-cd nama-proyek
+cd sgt-universities-nextjs
 ```
 
 3. **Instal dependensi menggunakan npm atau Yarn**
