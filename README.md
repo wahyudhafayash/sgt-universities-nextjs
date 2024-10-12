@@ -2,6 +2,10 @@
 
 Proyek ini adalah aplikasi web yang dirancang untuk menampilkan daftar universitas secara interaktif dalam bentuk tabel. Pengguna dapat melihat informasi dasar tentang berbagai universitas, termasuk nama dan Negara.
 
+## Lihat Demo 
+Untuk melihat aplikasi secara langsung, kunjungi [Universities Indonesia]([https://nodejs.org/](https://universities-indonesia.netlify.app/)).
+
+
 ## Persyaratan Sistem
 
 Sebelum menjalankan proyek ini, pastikan Anda telah memenuhi persyaratan berikut:
